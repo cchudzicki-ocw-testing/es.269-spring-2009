@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: During the last class of the semester, the students presented their final
+  projects. This section provides notes taken by an OpenCourseWare staff member observing
+  the class.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
